@@ -3,4 +3,10 @@
 2. [Logistic Regression](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
 3. **Support Vactor Machines** : <br>
                  -[Support Vactor Regression](https://en.wikipedia.org/wiki/Support_vector_machine#Regression)<br>
-                 -[Support Vactor classifier](https://www.mathworks.com/help/stats/support-vector-machines-for-binary-classification.html)
+                 -[Support Vactor classifier](https://www.mathworks.com/help/stats/support-vector-machines-for-binary-classification.html)<br>
+
+
+
+
+**These projects are made on  top of the libraries mentioned in [requirements.txt](https://github.com/MayukhBaruaha/Machine_Learning_Projects/blob/main/requirements.txt) file**
+ 
