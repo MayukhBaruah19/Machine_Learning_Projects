@@ -9,4 +9,8 @@
 
 
 **These projects are made on  top of the libraries mentioned in [requirements.txt](https://github.com/MayukhBaruaha/Machine_Learning_Projects/blob/main/requirements.txt) file**
- 
+
+ ## Models used in each porject
+ 1. [cancer prediction](https://github.com/MayukhBaruaha/Machine_Learning_Projects/tree/main/cancer%20prediction) ( [Logistic Regression](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) )
+ 2. [rock_vs_mine](https://github.com/MayukhBaruaha/Machine_Learning_Projects/tree/main/rock_vs_mine) ( [Logistic Regression](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) )
+ 3. [Diabetes prediction](https://github.com/MayukhBaruaha/Machine_Learning_Projects/tree/main/Diabetes%20prediction)   ( [Support Vactor Machines](https://en.wikipedia.org/wiki/Support_vector_machine) )
